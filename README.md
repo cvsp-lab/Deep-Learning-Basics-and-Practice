@@ -15,6 +15,7 @@
 ### 예제 1 (SLP)
 
 - 예제1 (SLP) [![Open In Colab](https://colab.research.google.com/drive/1Kg64xMoWn1Sqg5CxCh_lsXhmCp468Mdl)
+- 예제2 (MLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kg64xMoWn1Sqg5CxCh_lsXhmCp468Mdl)
 
 ### 예제 2 (SLP)
 
