@@ -5,7 +5,7 @@
 
 ## CoLab files
 
-### 실습 0
+### 예제 0
 
 - 파이썬 기초 문법 및 예제 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joonheeCho/Artificial-Intelligence-Basic-Course/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_Day1.ipynb)
 
