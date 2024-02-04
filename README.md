@@ -36,7 +36,7 @@
   
 
 ### 추가 실습
-- 추가 예제1 (CNN을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Va7JJCEwCNpNjyU78RcXOIX0mGKWu6I8?usp=sharing
+- 추가 예제1 (CNN을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Va7JJCEwCNpNjyU78RcXOIX0mGKWu6I8?usp=sharing)
 
 - 추가 예제2 (RNN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joonheeCho/Artificial-Intelligence-Basic-Course/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_Day4.ipynb)
 
