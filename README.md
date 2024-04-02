@@ -23,7 +23,7 @@
 
 ### 예제 3 (Overfitting)
 
-- 예제3 (Overfitting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RWtCA_C1LJFCYuuoVWhULePcLu03v9bi)
+- 예제3 (Overfitting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g3QNPJDi2SUY3eWpbifgbJ1N21viASi9?usp=sharing)
 
 ### 예제 4 (CNN을 이용한 글자 인식)
 
